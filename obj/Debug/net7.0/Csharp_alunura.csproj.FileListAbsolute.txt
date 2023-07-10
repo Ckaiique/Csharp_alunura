@@ -1,0 +1,15 @@
+/home/kaique/Documentos/GitHub/Csharp_alunura/bin/Debug/net7.0/Csharp_alunura
+/home/kaique/Documentos/GitHub/Csharp_alunura/bin/Debug/net7.0/Csharp_alunura.deps.json
+/home/kaique/Documentos/GitHub/Csharp_alunura/bin/Debug/net7.0/Csharp_alunura.runtimeconfig.json
+/home/kaique/Documentos/GitHub/Csharp_alunura/bin/Debug/net7.0/Csharp_alunura.dll
+/home/kaique/Documentos/GitHub/Csharp_alunura/bin/Debug/net7.0/Csharp_alunura.pdb
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.csproj.AssemblyReference.cache
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.AssemblyInfoInputs.cache
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.AssemblyInfo.cs
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.csproj.CoreCompileInputs.cache
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.dll
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/refint/Csharp_alunura.dll
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.pdb
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/Csharp_alunura.genruntimeconfig.cache
+/home/kaique/Documentos/GitHub/Csharp_alunura/obj/Debug/net7.0/ref/Csharp_alunura.dll
