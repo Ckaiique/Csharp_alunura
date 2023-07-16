@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_alunura", "Primeira aula conhecendo Csharp\Csharp_alunura.csproj", "{91C5E462-E450-47BB-B4C9-7CD4B1002B8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orientação a Objeto", "Orientação a Objeto\Orientação a Objeto.csproj", "{65DE520D-D569-475C-AF32-053E66512147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C5E462-E450-47BB-B4C9-7CD4B1002B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C5E462-E450-47BB-B4C9-7CD4B1002B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C5E462-E450-47BB-B4C9-7CD4B1002B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C5E462-E450-47BB-B4C9-7CD4B1002B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65DE520D-D569-475C-AF32-053E66512147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DE520D-D569-475C-AF32-053E66512147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DE520D-D569-475C-AF32-053E66512147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DE520D-D569-475C-AF32-053E66512147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE257BB-4BCC-4E26-B502-AB971822D757}
+	EndGlobalSection
+EndGlobal

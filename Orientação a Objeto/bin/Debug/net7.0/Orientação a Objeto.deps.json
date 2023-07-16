@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Orientação a Objeto/1.0.0": {
+        "runtime": {
+          "Orientação a Objeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orientação a Objeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj",
+      "projectUniqueName": "/home/kaique/Documentos/GitHub/Csharp_alura/Primeira aula conhecendo Csharp/Csharp_alunura.csproj",
       "projectName": "Csharp_alunura",
-      "projectPath": "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj",
+      "projectPath": "/home/kaique/Documentos/GitHub/Csharp_alura/Primeira aula conhecendo Csharp/Csharp_alunura.csproj",
       "packagesPath": "/home/kaique/.nuget/packages/",
-      "outputPath": "/home/kaique/Documentos/GitHub/Csharp_alunura/obj/",
+      "outputPath": "/home/kaique/Documentos/GitHub/Csharp_alura/Primeira aula conhecendo Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kaique/.nuget/NuGet/NuGet.Config"

@@ -1,0 +1,15 @@
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/bin/Debug/net7.0/Orientação a Objeto
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/bin/Debug/net7.0/Orientação a Objeto.deps.json
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/bin/Debug/net7.0/Orientação a Objeto.runtimeconfig.json
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/bin/Debug/net7.0/Orientação a Objeto.dll
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/bin/Debug/net7.0/Orientação a Objeto.pdb
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.csproj.AssemblyReference.cache
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.AssemblyInfoInputs.cache
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.AssemblyInfo.cs
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.csproj.CoreCompileInputs.cache
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.dll
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/refint/Orientação a Objeto.dll
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.pdb
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/Orientação a Objeto.genruntimeconfig.cache
+/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/Debug/net7.0/ref/Orientação a Objeto.dll

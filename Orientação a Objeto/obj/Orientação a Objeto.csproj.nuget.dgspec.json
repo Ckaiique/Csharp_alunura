@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj": {}
+    "/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/Orientação a Objeto.csproj": {}
   },
   "projects": {
-    "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj": {
+    "/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/Orientação a Objeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj",
-        "projectName": "Csharp_alunura",
-        "projectPath": "/home/kaique/Documentos/GitHub/Csharp_alunura/Csharp_alunura.csproj",
+        "projectUniqueName": "/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/Orientação a Objeto.csproj",
+        "projectName": "Orientação a Objeto",
+        "projectPath": "/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/Orientação a Objeto.csproj",
         "packagesPath": "/home/kaique/.nuget/packages/",
-        "outputPath": "/home/kaique/Documentos/GitHub/Csharp_alunura/obj/",
+        "outputPath": "/home/kaique/Documentos/GitHub/Csharp_alura/Orientação a Objeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kaique/.nuget/NuGet/NuGet.Config"
